@@ -12,6 +12,8 @@ Given a number n, count minimum steps to minimize it to 1 according to the follo
 - If n is divisible by 3 then you may reduce n to n/3.
 - Decrement n by 1.
 
+***
+
 
 ## code :
 
