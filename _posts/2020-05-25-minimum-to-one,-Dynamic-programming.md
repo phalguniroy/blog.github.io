@@ -15,6 +15,8 @@ Decrement n by 1.
 
 ## code :
 
+### top-down approach.
+
 ```javascript
 
 
