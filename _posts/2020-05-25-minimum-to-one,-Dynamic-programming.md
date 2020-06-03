@@ -1,8 +1,8 @@
 ---
 title: Minimum to one, Dynamic Programming
 tags: [dp, dynamic programming, minimum to one]
-style: 
-color: 
+style: fill
+color: success
 description: Minimum steps to minimize n as per given condition.
 ---
 ## Minimum steps to minimize n as per given condition

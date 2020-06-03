@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Phalguni Roy
 description         : >-
-                      "I turn coffee :coffee: into code,
+                      "I turn coffee :coffee: :tea: :panda: into code,
                       use tabs over spaces
                       and never broke production."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Phalguni Roy
-  image             : https://imgur.com/5AYbLKU.jpg
+  image             : https://i.imgur.com/bp5Qzwk.png
 # behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
