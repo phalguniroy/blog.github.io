@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Phalguni Roy
 description         : >-
-                      "I turn coffee :coffee: :tea: :panda: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "I am full stack web developer, 
+                      focusing on turning ideas into delightful and meaningful solutions."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

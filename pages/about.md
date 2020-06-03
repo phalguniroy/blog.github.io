@@ -2,19 +2,21 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 4
 ---
 
 # **About Me**
 
+[<img src="https://i.imgur.com/ZDVa1en.png">](https://www.phalguniroy.in/)<br>
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi there! I am a Fullstack developer specialized in Node.js and React.
+I enjoy coding for both the front end and the back end. In particular, I enjoy the sense of pride and accomplishment when combining everything into a complete project.
 
-<div class="row">
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
 {% include about/timeline.html %}
-</div>
+</div> -->
