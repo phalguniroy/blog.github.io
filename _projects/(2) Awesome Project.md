@@ -1,19 +1,18 @@
 ---
 name: Terminal
-tools: [C#, XML, WPF]
-image: https://images.freeimages.com/images/large-previews/6a2/dos-prompt-traceroute-3-1242822.jpg
-description: coming soon ...
+tools: [Node.js, Express, React, Redux, MongoDB]
+image: https://i.imgur.com/zN5LWrX.png
+description: Social Media app for devloper.
 ---
 
-# terminal project
+# Basic social media app for devlopers
 
 
-![preview](https://images.freeimages.com/images/large-previews/6a2/dos-prompt-traceroute-3-1242822.jpg)
+![preview](https://i.imgur.com/VPjAVPc.png)
 
-## terminal
-![search](https://images.freeimages.com/images/large-previews/6a2/dos-prompt-traceroute-3-1242822.jpg)
+
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/" text="Learn More" %}
+{% include elements/button.html link="https://agile-dusk-99304.herokuapp.com/" text="visit project" %}
 </p>
