@@ -9,12 +9,12 @@ description: Count down timer app
 
 # Timer App
 
+<p class="text-center">
+{% include elements/button.html link="https://jovial-austin-1f4628.netlify.app/" text="visit project" %}
+</p>
 
 ![preview](https://i.imgur.com/vmkLsTA.png)
 
 
 
 
-<p class="text-center">
-{% include elements/button.html link="https://jovial-austin-1f4628.netlify.app/" text="visit project" %}
-</p>
