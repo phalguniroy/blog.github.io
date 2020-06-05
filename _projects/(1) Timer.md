@@ -1,6 +1,6 @@
 ---
 name: Timer App
-tools: [nothing, important]
+tools: [html, css, javascript, svg]
 image: https://images.freeimages.com/images/large-previews/ca3/pocket-watch-1-1419883.jpg
 description: Count down timer app
 ---
